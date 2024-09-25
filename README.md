@@ -2,7 +2,9 @@
 
 本fork使用p3terx的GIthub Action脚本，编译hanwckf的immortalwrt-mt7981分支。用于自用路由器：360t7和jcg q30 pro，其中360t7作为主路由，加入zerotier ddns mwan3 mwan3helper wol vlmcsd等软件，jcg q30 pro作为ap，仅使用默认配置，不添加任何软件。
 
-**如需下载请到Action页面自行取用。**
+**如需下载请到Action页面自行取用**
+
+---
 
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
