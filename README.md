@@ -1,3 +1,7 @@
+# 点击右上角“Star”自动为您编译最新固件。
+
+---
+
 # About this fork
 
 本fork使用[p3terx的GIthub Action脚本](https://github.com/P3TERX/Actions-OpenWrt)，编译[hanwckf的immortalwrt-mt7981分支](https://github.com/hanwckf/immortalwrt-mt798x)。用于自用路由器：360t7和jcg q30 pro，其中360t7作为主路由，加入zerotier ddns mwan3 mwan3helper wol vlmcsd等软件，jcg q30 pro作为ap，仅使用默认配置，不添加任何软件。
